@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yoshiiita/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/yoshiiita/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/yoshiiita/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [3227-find-missing-and-repeated-values](https://github.com/yoshiiita/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
@@ -34,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/yoshiiita/leetcode/tree/master/0048-rotate-image) |
+| [3227-find-missing-and-repeated-values](https://github.com/yoshiiita/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/yoshiiita/leetcode/tree/master/0048-rotate-image) |
+| [3227-find-missing-and-repeated-values](https://github.com/yoshiiita/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/yoshiiita/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/yoshiiita/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
