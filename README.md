@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yoshiiita/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0287-find-the-duplicate-number](https://github.com/yoshiiita/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/yoshiiita/leetcode/tree/master/0392-is-subsequence) |
+| [0917-boats-to-save-people](https://github.com/yoshiiita/leetcode/tree/master/0917-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yoshiiita/leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/yoshiiita/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/yoshiiita/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0917-boats-to-save-people](https://github.com/yoshiiita/leetcode/tree/master/0917-boats-to-save-people) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/yoshiiita/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yoshiiita/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/yoshiiita/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0917-boats-to-save-people](https://github.com/yoshiiita/leetcode/tree/master/0917-boats-to-save-people) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/yoshiiita/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Math
 |  |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/yoshiiita/leetcode/tree/master/0229-majority-element-ii) |
+| [0917-boats-to-save-people](https://github.com/yoshiiita/leetcode/tree/master/0917-boats-to-save-people) |
 ## Counting
 |  |
 | ------- |
