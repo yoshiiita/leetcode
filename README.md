@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/yoshiiita/leetcode/tree/master/0392-is-subsequence) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yoshiiita/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yoshiiita/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yoshiiita/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/yoshiiita/leetcode/tree/master/0229-majority-element-ii) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yoshiiita/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3227-find-missing-and-repeated-values](https://github.com/yoshiiita/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -72,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/yoshiiita/leetcode/tree/master/0229-majority-element-ii) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yoshiiita/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yoshiiita/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yoshiiita/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yoshiiita/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yoshiiita/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
