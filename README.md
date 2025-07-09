@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yoshiiita/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/yoshiiita/leetcode/tree/master/0392-is-subsequence) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yoshiiita/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yoshiiita/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yoshiiita/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yoshiiita/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yoshiiita/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yoshiiita/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
