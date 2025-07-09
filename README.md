@@ -96,10 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/yoshiiita/leetcode/tree/master/0100-same-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yoshiiita/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/yoshiiita/leetcode/tree/master/0100-same-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yoshiiita/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -108,9 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/yoshiiita/leetcode/tree/master/0100-same-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yoshiiita/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/yoshiiita/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/yoshiiita/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
