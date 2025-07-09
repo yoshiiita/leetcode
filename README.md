@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yoshiiita/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/yoshiiita/leetcode/tree/master/0392-is-subsequence) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/yoshiiita/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/yoshiiita/leetcode/tree/master/0048-rotate-image) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/yoshiiita/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/yoshiiita/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/yoshiiita/leetcode/tree/master/0229-majority-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/yoshiiita/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
