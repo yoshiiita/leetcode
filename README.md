@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yoshiiita/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/yoshiiita/leetcode/tree/master/0392-is-subsequence) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yoshiiita/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yoshiiita/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yoshiiita/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yoshiiita/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
