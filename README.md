@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yoshiiita/leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/yoshiiita/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/yoshiiita/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yoshiiita/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/yoshiiita/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [3227-find-missing-and-repeated-values](https://github.com/yoshiiita/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
@@ -75,5 +76,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yoshiiita/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yoshiiita/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yoshiiita/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yoshiiita/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
