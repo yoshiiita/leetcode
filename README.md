@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yoshiiita/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/yoshiiita/leetcode/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/yoshiiita/leetcode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/yoshiiita/leetcode/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/yoshiiita/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/yoshiiita/leetcode/tree/master/0392-is-subsequence) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/yoshiiita/leetcode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/yoshiiita/leetcode/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
