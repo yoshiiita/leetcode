@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yoshiiita/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0148-sort-list](https://github.com/yoshiiita/leetcode/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/yoshiiita/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/yoshiiita/leetcode/tree/master/0392-is-subsequence) |
 | [0917-boats-to-save-people](https://github.com/yoshiiita/leetcode/tree/master/0917-boats-to-save-people) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/yoshiiita/leetcode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/yoshiiita/leetcode/tree/master/0229-majority-element-ii) |
 | [0917-boats-to-save-people](https://github.com/yoshiiita/leetcode/tree/master/0917-boats-to-save-people) |
 ## Counting
@@ -127,4 +129,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/yoshiiita/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yoshiiita/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/yoshiiita/leetcode/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/yoshiiita/leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/yoshiiita/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
